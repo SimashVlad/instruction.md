@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="350"/>
-
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="300"/>
+</div>
 ---
 <div align="center">
 
 # Инструкция для работы с Git и удалёнными репозиториями
+
 </div>
 
 ## Что такое Git?
@@ -81,6 +82,10 @@
 * *git branch -d <имя ветки>*
 
 <div align="center">
+
+<div id="header" align="center">
+  <img src="spasibo.png" width="300"/>
+</div>
 
 Более подробно можно ознакомится на сайте:
 
