@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="350"/>
+
+---
+<div align="center">
 
 # Инструкция для работы с Git и удалёнными репозиториями
 </div>
