@@ -1,9 +1,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="300"/>
 </div>
----
-<div align="center">
 
+---
+
+<div align="center">
+    
 # Инструкция для работы с Git и удалёнными репозиториями
 
 </div>
@@ -82,7 +84,9 @@
 ## Слияние веток
 
 <div align="center">
-  <img src="https://i.gifer.com/7h7L.gif" width="600" height="300"/>
+  
+  <iframe src="https://gifer.com/embed/7h7L" width=480 height=268.800 frameBorder="0"
+  
 </div>
 
 Для того чтобы дабавить ветку в текущую ветку используется команда:
@@ -93,10 +97,8 @@
 * *git branch -d <имя ветки>*
 
 <div align="center">
-
-<div id="header" align="center">
-  <img src="https://coolsen.ru/wp-content/uploads/2021/06/28-1.jpg" width="500"/>
-</div>
+  <img src="" width="300"/>
+  </div>
 
 Более подробно можно ознакомится на сайте:
 
