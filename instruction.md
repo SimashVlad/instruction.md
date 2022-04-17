@@ -83,12 +83,6 @@
 
 ## Слияние веток
 
-<div align="center">
-  
-  <iframe src="https://gifer.com/embed/7h7L" width=480 height=268.800 frameBorder="0"
-  
-</div>
-
 Для того чтобы дабавить ветку в текущую ветку используется команда:
 * *git merge <имя ветки>*
 
@@ -97,9 +91,6 @@
 * *git branch -d <имя ветки>*
 
 <div align="center">
-  <img src="" width="300"/>
-  </div>
-
 Более подробно можно ознакомится на сайте:
 
 https://proglib.io/p/git-for-half-an-hour
