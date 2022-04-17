@@ -95,7 +95,7 @@
 <div align="center">
 
 <div id="header" align="center">
-  <img src="spasibo.png" width="300"/>
+  <img src="https://coolsen.ru/wp-content/uploads/2021/06/28-1.jpg" width="500"/>
 </div>
 
 Более подробно можно ознакомится на сайте:
